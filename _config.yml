@@ -24,6 +24,7 @@ github_username:
 
 # Build settings
 markdown: kramdown
+mathjax: true
 theme: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
