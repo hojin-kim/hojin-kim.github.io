@@ -28,7 +28,8 @@
   margin-bottom: 0.5rem;
   font-family: $title-font-family;
   font-weight: $entry-title-weight;
-  font-style: italic;
+/* 제목 이탤릭체 설정을 수정 : pages 화면에서 */
+  /*  font-style: italic; */
   letter-spacing: -1px;
   word-wrap: break-word; /* break long words that could overflow */
 

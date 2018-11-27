@@ -14,7 +14,8 @@
   margin-bottom: 0.5em;
   font-family: $title-font-family;
   font-weight: $page-title-weight;
-  font-style: italic;
+/* 제목 이탤릭체 설정을 수정 : post 화면에서 */
+/*  font-style: italic;*/
   letter-spacing: -2px;
 }
 
@@ -72,7 +73,7 @@
   .page-date,
   .read-time {
     font-family: $meta-font-family;
-    font-style: italic;
+    font-style: italic, bold;
     white-space: nowrap;
   }
 
