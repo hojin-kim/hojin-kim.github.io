@@ -47,6 +47,7 @@ theme: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
 
+google analytics: UA-152960761-1
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
