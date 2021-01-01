@@ -7,6 +7,6 @@ permalink: /about/
 
 Hojin Kim
 
-Researching NLP at TmaxData. (Yes, they have AI teams!)
+Ph.D. candidate working on number theory at KAIST.
 
-I have strong math background; and am a newbie developer.
+I have math M.S. degree on mathematics and 2 years of experience working as a AI develper. 
