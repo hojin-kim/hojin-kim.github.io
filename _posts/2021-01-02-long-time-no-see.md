@@ -12,7 +12,7 @@ date: '2021-01-02 00:00:16'
 
 Maclachlan & Reid 의 __The Arithmetic of Hyperbolic 3-Manifold__ 는 대수적정수론을 공부하기에 표준적인 텍스트는 아닐 텐데, 예전에 이 텍스트로 봤던 적이 있어서 다시 복습하려고 함. Global field 중심이었던 것 같아서 Local field 쪽은 따로 봐야 할 것 같다. 로컬 필드는 예전에 Serre를 보긴 했었는데 이건 다시보기 넘 싫네.. 
 
-I was grad student in math, but i had a leave of absence from 2018 August, to work as a AI developer (mainly on Natural Language Processing.) While getting to know new stuffes, I wanted to make them orgnanized and to be helpful to others by publishing it. So I made this github page blog, posted one article on spectral clustering, and had no updated for 28 monthes. 
+I was grad student in math, but i had a leave of absence from 2018 August, to work as a AI developer (mainly on Natural Language Processing.) While getting to know new stuffes, I wanted to make them orgnanized and to be helpful to others by publishing it. So I made this github page blog, posted one article on spectral clustering, and had no updates for 28 monthes. 
 
 Many things changed in about 2 and half years; In short, I've done my military duty as a professional researching agent and quit the company, returned to school and started to study number theory again from about 4 monthes ago. I did bunch of calculations on modular forms and L-functions during 4 monthes, but didn't do much theoretical study. Since I forgot many materials from algebraic number theories I was thinking of reviewing it (as a new year plan) and suddenly I got to remember that I have a github pages for studing and organizing. To make a kickoff, I published a very short article on ANT material. The next posts should be published soon, but who knows. 
 
